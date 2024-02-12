@@ -1,0 +1,1 @@
+# Collect-the-hash-value-of-the-software
